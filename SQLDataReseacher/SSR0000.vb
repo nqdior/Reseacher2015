@@ -49,7 +49,7 @@ Public Class SDR0000
 
         '■---------------------------------------------------------------
 
-        If LoginCus = 0 Then
+        If LoginCus = "0" Then
             Panel2.Visible = True
             Panel5.Visible = False
         Else
